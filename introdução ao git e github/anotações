@@ -1,7 +1,7 @@
 Para este projeto estou usando o Linux.
 Link de download do git
 https://git-scm.com/downloads
-
+GIT INSTALADO
 
 sobre markdown
 https://www.markdownguide.org/basic-syntax/
@@ -11,3 +11,19 @@ Comandos básicos para navegação no Terminal do Linux
 -ls para listar 
 -mkdir para criar
 -rm -rf para deletar
+CTRL + L para limpar
+
+Entendendo como GIT funciona:
+SHA1 - Algoritmo de hash seguro
+objetos fundamantais
+sistema distribuído
+segurança
+
+Objetos Internos do GIT:
+BLOBS: Campo criado para armazenamento de qualquer tipo de informação em formato binário
+TREES: árvores que armazenam Blobs ou outras árvores
+COMMITS: um commit representa fazer uma cópia do seu trabalho para o repositório central. 
+Isso significa que um commit vai realizando as mudanças desde o repositório SVN local até o repositório SVN central. 
+Enquanto no Git, ele não força você a interagir com o repositório remoto, até que você queira.
+
+Chave SSH: conexão segura de máquina com Github
